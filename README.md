@@ -35,7 +35,7 @@ This project visualizes Indian agriculture data using a table and a bar chart. I
 
    ```bash
    git clone https://github.com/rinkuChhokar/indian-agriculture-data-visualization.git
-   cd agriculture-data-viz
+   cd indian-agriculture-data-visualization
 
    yarn install
    ```
